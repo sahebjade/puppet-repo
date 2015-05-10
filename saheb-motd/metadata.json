@@ -1,0 +1,14 @@
+{
+  "name": "saheb/motd",
+  "version": "0.1.0",
+  "author": "Sahebjade",
+  "summary": "This will show message of the day",
+  "license": "apache 2.0",
+  "source": "https://github.com/sahebjade/puppet-repo.git",
+  "project_page": "https://github.com/sahebjade/puppet-repo",
+  "issues_url": "https://github.com/sahebjade/puppet-repo/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
